@@ -1,0 +1,9 @@
+Questões IW2
+
+1 - B) Executar um código várias vezes de forma controlada.
+
+2 - C) A inicialização
+
+3 - A) 0, 1 e 2
+
+4 - 
